@@ -1,0 +1,38 @@
+/*! 版权所有！ */
+/*hello.css */
+.hello__root--2HFsW {
+    background-color: #eee;
+    padding: 10px;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    background: url(images/2b460924.img.png);
+}html {
+    box-sizing: border-box;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: pink;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+    margin: 0;
+    padding: 0;
+}
